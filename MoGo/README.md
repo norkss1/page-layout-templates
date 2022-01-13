@@ -3,7 +3,9 @@
 <p>
     <img src="assets/result1.gif">
 </p>
+
 ---
+
 <p>
     <img src="assets/result2.gif">
 </p>
